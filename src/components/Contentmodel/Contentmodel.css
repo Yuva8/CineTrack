@@ -71,7 +71,7 @@
   .ContentModal__portrait {
     display: flex;
     width: 38%;
-    height: 100%;
+   
   }
   .ContentModal {
     flex-direction: row;
